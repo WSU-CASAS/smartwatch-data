@@ -109,7 +109,8 @@ We have created [a Python library](https://github.com/WSU-CASAS/Mobile-AL-Data) 
 ### Files:
 The participant data files are grouped into 3 groups based on the data collection conditions for each group. (Participants within the same group had similiar participant characteristics and data collection timeframes, prompt frequency, etc.)
 
-  - `README.txt`
-  - `sw1.p1` through `sw1.p15` (Group 1)
-  - `sw1.p16` through `sw1.p45` (Group 2)
-  - `sw1.p46` through `sw1.p49` (Group 3)
+The files are available [on the CASAS website](http://casas.wsu.edu/datasets/smartwatch/). Links to individual files are below:
+
+  - [group1.zip](http://casas.wsu.edu/datasets/smartwatch/group1.zip) (9.1 GB), `sw1.p1` through `sw1.p15`
+  - [group2.zip](http://casas.wsu.edu/datasets/smartwatch/group2.zip) (38.4 GB), `sw1.p16` through `sw1.p45`
+  - [group3.zip](http://casas.wsu.edu/datasets/smartwatch/group3.zip) (2.2 GB), `sw1.p46` through `sw1.p49`
