@@ -31,7 +31,7 @@ Motion sensors include:
 
 In addition to motion sensors, data was also collected from the watch GPS using the [CoreLocation](https://developer.apple.com/documentation/corelocation) framework. The GPS location was queried every 5 minutes to save power.
 
-Raw location values are not provided to preserve participant anonymity. These values are replaced by features derived from the raw location. The location type feature indicates the type of location that is being visited, as indicated by reverse-geocoding using [Nominatum](https://nominatim.org/). Additionally, each participant's mean location is calculated over all locations for that participant. Features are then generated reflecting the current location's distance from the mean in terms of latitude, longitude, and altitude.
+Raw location values are not provided to preserve participant anonymity. These values are replaced by features derived from the raw location. The location type feature indicates the type of location that is being visited, as indicated by reverse-geocoding using [Nominatim](https://nominatim.org/). Additionally, each participant's mean location is calculated over all locations for that participant. Features are then generated reflecting the current location's distance from the mean in terms of latitude, longitude, and altitude.
 
 Location sensors/features include:
   - location type
